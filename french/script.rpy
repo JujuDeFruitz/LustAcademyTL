@@ -1,346 +1,346 @@
-﻿# TODO: Translation updated at 2022-01-25 10:31
+# TODO: Translation updated at 2022-01-25 10:31
 
 # game/script.rpy:217
 translate french 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    ""
+    "Ici, vous pouvez garder une trace de tous les itinéraires, activités etc.. qui seront à votre disposition. Naviguez rapidement vers celui que vous souhaitez, sans perdre de temps à parcourir les lieux et à chercher. À côté des avatars des personnages se trouvent des icônes, dont le décodage est le suivant."
 
 # game/script.rpy:742
 translate french start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName ""
+    NoName "Hey, je m'appelle..."
 
 # game/script.rpy:768
 translate french start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name ""
+    ch_Name "Je m'appelle [Name] [Surname] et j'ai 18 ans."
 
 # game/script.rpy:774
 translate french start_input_2_f789cadc:
 
     # ch_Name "I should have been at training camp with my team right now."
-    ch_Name ""
+    ch_Name "J'devrais être normalement au camp d'entraînement avec mon équipe en ce moment."
 
 # game/script.rpy:776
 translate french start_input_2_d05c9319:
 
     # ch_Name "But fate had something else prepared for me."
-    ch_Name ""
+    ch_Name "Mais le destin m'a réservé autre chose.."
 
 # game/script.rpy:780
 translate french start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name ""
+    ch_Name "Double fracture ouverte..."
 
 # game/script.rpy:781
 translate french start_input_2_9ca377b3:
 
     # ch_Name "It's a miracle I'm not crippled."
-    ch_Name ""
+    ch_Name "C'est un miracle que je ne sois pas paralysé."
 
 # game/script.rpy:782
 translate french start_input_2_b118fdd0:
 
     # ch_Name "Still, I had to say goodbye to my soccer career..."
-    ch_Name ""
+    ch_Name "En contrepartie, j'devrais dire au revoir à ma carrière de footballeur..."
 
 # game/script.rpy:783
 translate french start_input_2_e826d333:
 
     # ch_Name "And to the scholarship I needed for college as well."
-    ch_Name ""
+    ch_Name "Et à cette bourse dont j'avais besoin pour l'université aussi."
 
 # game/script.rpy:787
 translate french start_input_2_9cc3f3ac:
 
     # ch_Name "So I had to find another way to get an education."
-    ch_Name ""
+    ch_Name "Du coup j'ai dû trouver un autre moyen d'obtenir ma formation."
 
 # game/script.rpy:789
 translate french start_input_2_55620e58:
 
     # ch_Name "Samantha suggested I try photography."
-    ch_Name ""
+    ch_Name "Samantha m'avait suggéré d'essayer la photographie"
 
 # game/script.rpy:791
 translate french start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name ""
+    ch_Name "Il s'avère que j'suis naturel !"
 
 # game/script.rpy:793
 translate french start_input_2_e0b7f024:
 
     # ch_Name "Now I work part-time as a photographer to save money for college."
-    ch_Name ""
+    ch_Name "Et maintenant, j'travaille à temps partiel comme photographe pour économiser de l'argent pour l'université."
 
 # game/script.rpy:798
 translate french start_input_2_0eb03f84:
 
     # ch_Name "I've been applying filters on photos all day..."
-    ch_Name ""
+    ch_Name "J'ai appliqué des filtres sur les photos toute la journée..."
 
 # game/script.rpy:800
 translate french start_input_2_86ff8bea:
 
     # ch_Name "I hope the client will be happy."
-    ch_Name ""
+    ch_Name "J'espère que le client sera ravi."
 
 # game/script.rpy:802
 translate french start_input_2_19d3c2fb:
 
     # ch_Name "A few more shoots and I'll have enough for a down payment."
-    ch_Name ""
+    ch_Name "Encore quelques shooting et j'aurai assez d'argent pour un acompte."
 
 # game/script.rpy:804
 translate french start_input_2_b9fa1026:
 
     # ch_Name "And I still have time to get out of this shit-hole this semester."
-    ch_Name ""
+    ch_Name "Et j'ai encore le temps de sortir de cette merde ce semestre."
 
 # game/script.rpy:818
 translate french start_input_2_b6ce45a5:
 
     # NoName "Knock-Knock"
-    NoName ""
+    NoName "Toc toc"
 
 # game/script.rpy:863
 translate french start_input_2_6f8b77bd:
 
     # Olivia "[Name] [Surname]! You've been slacking again?"
-    Olivia ""
+    Olivia "[Name] [Surname]! Tu t'es encore relâché ?"
 
 # game/script.rpy:865
 translate french start_input_2_fcb030eb:
 
     # Olivia "I expected as much from you."
-    Olivia ""
+    Olivia "J'en attendais pas moins de toi."
 
 # game/script.rpy:867
 translate french start_input_2_944e7bfb:
 
     # ch_Name "Please don't start that, Olivia, I've been working all day."
-    ch_Name ""
+    ch_Name "S'il te plaît Olivia, commence pas, j'ai bossé toute la journée."
 
 # game/script.rpy:869
 translate french start_input_2_9039396f:
 
     # Olivia "Start what?!"
-    Olivia ""
+    Olivia "Commencer quoi ?!"
 
 # game/script.rpy:871
 translate french start_input_2_f6f68885:
 
     # Olivia "What kind of tone is that?"
-    Olivia ""
+    Olivia "En quel ton tu me parles ?"
 
 # game/script.rpy:873
 translate french start_input_2_4d4ef9ab:
 
     # Olivia "You've been in your room all day!"
-    Olivia ""
+    Olivia "T'as resté dans ta chambre toute la journée !"
 
 # game/script.rpy:875
 translate french start_input_2_3c898584:
 
     # Olivia "Or do you think I'm blind?!"
-    Olivia ""
+    Olivia "Tu crois que j'suis aveugle ?!"
 
 # game/script.rpy:877
 translate french start_input_2_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Mais..."
 
 # game/script.rpy:879
 translate french start_input_2_ad8c35fe:
 
     # Olivia "No buts!"
-    Olivia ""
+    Olivia "Pas de mais qui tienne !"
 
 # game/script.rpy:881
 translate french start_input_2_9a44f10c:
 
     # Olivia "That's what Don was talking about. You're out of control!"
-    Olivia ""
+    Olivia "C'est de cela que parlait Don. Tu te contrôles plus !"
 
 # game/script.rpy:883
 translate french start_input_2_3a73df72:
 
     # Olivia "Your ingratitude leaves us no choice."
-    Olivia ""
+    Olivia "Ton ingratitude me laisse pas le choix."
 
 # game/script.rpy:885
 translate french start_input_2_2a5612ed:
 
     # Olivia "If your mother heard that at 18 years old..."
-    Olivia ""
+    Olivia "Si ta mère entendait ça à 18 ans..."
 
 # game/script.rpy:887
 translate french start_input_2_362faf0b:
 
     # Olivia "...her son would neither study nor work!"
-    Olivia ""
+    Olivia "...que son fils n'étudie et travaille pas !"
 
 # game/script.rpy:889
 translate french start_input_2_2043c397:
 
     # Olivia "She'd be spinning in her grave!"
-    Olivia ""
+    Olivia "Elle se retournerait dans sa tombe !"
 
 # game/script.rpy:891
 translate french start_input_2_f6a83891:
 
     # ch_Name "Olivia..."
-    ch_Name ""
+    ch_Name "Olivia..."
 
 # game/script.rpy:893
 translate french start_input_2_117ab70a:
 
     # ch_Name "Leave my mother alone!"
-    ch_Name ""
+    ch_Name "Laisse ma mère tranquille !"
 
 # game/script.rpy:895
 translate french start_input_2_ce40e133:
 
     # Olivia "Don't you raise your voice at me in my house!"
-    Olivia ""
+    Olivia "N'hausse pas le ton contre moi dans ma maison !"
 
 # game/script.rpy:897
 translate french start_input_2_532196a0:
 
     # Olivia "Truth hurts, doesn't it?"
-    Olivia ""
+    Olivia "La vérité fait mal, pas vrai ?"
 
 # game/script.rpy:899
 translate french start_input_2_f6724a46:
 
     # ch_Name "You know why this is the way it is!"
-    ch_Name ""
+    ch_Name "Tu sais déjà pourquoi c'est comme ça !"
 
 # game/script.rpy:901
 translate french start_input_2_4682ac22:
 
     # ch_Name "I'd be at university right now if it wasn't for my leg..."
-    ch_Name ""
+    ch_Name "J'serais déjà à l'université en ce moment si ce n'était pas pour ma jambe..."
 
 # game/script.rpy:903
 translate french start_input_2_6eb4f2dc:
 
     # Olivia "You should have thought of that before!"
-    Olivia ""
+    Olivia "T'aurais dû y penser avant !"
 
 # game/script.rpy:905
 translate french start_input_2_245150b8:
 
     # Olivia "Sport is always a risk."
-    Olivia ""
+    Olivia "Le sport sera toujours un risque."
 
 # game/script.rpy:907
 translate french start_input_2_5783fa11:
 
     # Olivia "You should've done less loafing and studied more. Like Ashley!"
-    Olivia ""
+    Olivia "T'aurais dû moins flâner et étudier plus. Comme Ashley !"
 
 # game/script.rpy:909
 translate french start_input_2_aedee487:
 
     # Olivia "And now what?"
-    Olivia ""
+    Olivia "Et maintenant ?"
 
 # game/script.rpy:911
 translate french start_input_2_036404a6:
 
     # Olivia "How do you plan to get an education?"
-    Olivia ""
+    Olivia "T'as un plan pour continuer ta formation ?"
 
 # game/script.rpy:913
 translate french start_input_2_b1e52819:
 
     # ch_Name "I'm working on it."
-    ch_Name ""
+    ch_Name "J'y travaille"
 
 # game/script.rpy:915
 translate french start_input_2_2aa9b9d5:
 
     # Olivia "He's working..."
-    Olivia ""
+    Olivia "T'y travailles..."
 
 # game/script.rpy:917
 translate french start_input_2_b33dc905:
 
     # Olivia "I see how hard you’re \"working\"!"
-    Olivia ""
+    Olivia "J'vois a quel point t'y "\"travailles\"!"
 
 # game/script.rpy:919
 translate french start_input_2_691c3787:
 
     # Olivia "[Name], our hospitality is not unlimited."
-    Olivia ""
+    Olivia "[Name], notre amabilité n'est pas infini."
 
 # game/script.rpy:921
 translate french start_input_2_2089379b:
 
     # ch_Name "{i}(That's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ça c'est sûr...){/i}"
 
 # game/script.rpy:923
 translate french start_input_2_2869137c:
 
     # Olivia "We didn't want this, but you leave us no choice."
-    Olivia ""
+    Olivia "On ne voualait pas en arriver là, mais tu nous laisses pas le choix."
 
 # game/script.rpy:925
 translate french start_input_2_42f41d8b:
 
     # Olivia "If you want to throw your life away..."
-    Olivia ""
+    Olivia "Si tu veux gâcher ta vie..."
 
 # game/script.rpy:927
 translate french start_input_2_b962a7e0:
 
     # Olivia "We won't let you do it with your feet dangling off Don's neck!"
-    Olivia ""
+    Olivia "On te laissera pas faire avec tes pieds suspendus au cou de Don !"
 
 # game/script.rpy:929
 translate french start_input_2_f6f5841f:
 
     # Olivia "You're a grown man."
-    Olivia ""
+    Olivia "T'es un adulte"
 
 # game/script.rpy:931
 translate french start_input_2_bca2c05c:
 
     # Olivia "You can take care of yourself."
-    Olivia ""
+    Olivia "Tu peux prendre soin de toi"
 
 # game/script.rpy:933
 translate french start_input_2_f4cb3c7a:
 
     # ch_Name "What do you mean? Are you kicking me out?"
-    ch_Name ""
+    ch_Name "Ou tu veux en venir ? Tu veux me mettre dehors ?"
 
 # game/script.rpy:935
 translate french start_input_2_90f3a346:
 
     # ch_Name "But, Olivia, come on... Where am I supposed to go?"
-    ch_Name ""
+    ch_Name "Mais, Olivia, vas-y... Tu veux que j'aille ou ?"
 
 # game/script.rpy:937
 translate french start_input_2_2661214d:
 
     # Olivia "What do you take us for? Savages?"
-    Olivia ""
+    Olivia "Tu nous prends pour qui ? Des sauvages ?"
 
 # game/script.rpy:939
 translate french start_input_2_3c004877:
 
     # Olivia "You're my best friend's son, God rest her soul."
-    Olivia ""
+    Olivia "T'es le fils de ma meilleure amie, que Dieu accorde la paix à son âme."
 
 # game/script.rpy:941
 translate french start_input_2_668cf83e:
